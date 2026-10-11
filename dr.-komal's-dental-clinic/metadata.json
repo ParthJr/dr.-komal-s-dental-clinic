@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Komal's Dental Clinic",
+  "description": "Patient-first gentle dental care clinic located in Randesan, Gandhinagar, Gujarat. Offering dental check-ups, teeth whitening, bonding, cosmetic dentistry, implants, and restorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
